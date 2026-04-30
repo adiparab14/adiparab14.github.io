@@ -2,13 +2,10 @@
 title: "Welcome to My Blog"
 date: 2026-04-30
 draft: false
-author: "Aditya Parab"
 tags:
   - intro
-  - QA
-image: /images/post.jpg
+  - qa
 description: "A quick intro to who I am and what I'll be writing about."
-toc: false
 ---
 
 Welcome to my corner of the internet.
@@ -21,4 +18,4 @@ This blog is where I'll share:
 - **Test automation** — practical walkthroughs, not just theory
 - **Career thoughts** — navigating the QA world
 
-More posts coming soon. Stay tuned.
+More posts coming soon.
