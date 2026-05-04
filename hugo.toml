@@ -17,12 +17,11 @@ unsafe = true
 
 [params]
 author = "Aditya Parab"
-description = "Software QA Engineer"
-keywords = "qa, testing, software, blog"
-info = ["Software QA Engineer"]
+description = "Senior QA Engineer with 12+ years of experience in Software Testing and Test Automation"
+keywords = "qa, testing, automation, playwright, selenium, software"
+info = ["Senior QA Engineer","Curious Builder"]
 avatarURL = "images/profile.jpg"
 dateFormat = "January 2, 2006"
-since = 2024
 colorScheme = "auto"
 hideColorSchemeToggle = false
 
@@ -30,7 +29,7 @@ hideColorSchemeToggle = false
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 1
-url = "https://linkedin.com/in/adityaparab"
+url = "https://www.linkedin.com/in/adiparab14/"
 
 [[params.social]]
 name = "Github"
@@ -61,6 +60,11 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Resume"
+name = "CityWalker"
 weight = 3
+url = "citywalker/"
+
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 4
 url = "resume/"
